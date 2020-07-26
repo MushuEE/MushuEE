@@ -1,4 +1,4 @@
-![][Grantgithub.png]
+![banner](https://github.com/MushuEE/MushuEE/blob/master/Grantgithub.png)
 <!--
 **MushuEE/MushuEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
