@@ -1,4 +1,4 @@
-![About Me!](./Grantgithub.png)
+<img src="./Grantgithub.png" width="800" />
 <!--
 **MushuEE/MushuEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
